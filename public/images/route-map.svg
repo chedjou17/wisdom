@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 720" role="img" aria-label="Carte du suivi France Cameroun">
+  <rect width="980" height="720" rx="30" fill="#f6fbff"/>
+  <path fill="#e4f3ff" d="M0 530c104-28 218-34 354-7 158 32 300 15 441-45 72-31 134-38 185-24v266H0z"/>
+  <path fill="#fff4db" d="M196 96c65-24 132 6 183 29 53 23 119 2 164 44 42 39 19 93-35 111-90 30-162 7-251 45-63 27-130-13-138-80-8-62 27-130 77-149Z"/>
+  <path fill="#eaf5df" d="M623 416c72-39 137 5 199 38 52 28 115 21 141 72 25 51-15 100-83 118-86 23-154-1-221-56-71-58-99-138-36-172Z"/>
+  <path d="M256 216 C 379 230, 494 304, 584 394 C 657 466, 731 532, 829 554" fill="none" stroke="#d7a642" stroke-width="7" stroke-linecap="round"/>
+  <path d="M256 216 C 379 230, 494 304, 584 394 C 657 466, 731 532, 829 554" fill="none" stroke="#1f4fa3" stroke-width="3" stroke-linecap="round" stroke-dasharray="12 16"/>
+  <g font-family="Inter,Arial" font-weight="800" fill="#10213b">
+    <text x="202" y="184" font-size="24">Paris</text>
+    <text x="775" y="604" font-size="24">Douala</text>
+  </g>
+  <circle cx="256" cy="216" r="16" fill="#1f4fa3"/>
+  <circle cx="829" cy="554" r="16" fill="#0f7a3b"/>
+</svg>

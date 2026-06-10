@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" role="img" aria-label="Solutions cargo">
+  <rect width="960" height="640" fill="#f5f8fb"/>
+  <path d="M96 430h768v86H96z" fill="#0b2942"/>
+  <path d="M160 360h160v70H160z" fill="#d96b2b"/><path d="M340 360h160v70H340z" fill="#1f5f8b"/><path d="M520 360h160v70H520z" fill="#f6b24a"/>
+  <path d="M200 282h160v78H200z" fill="#0f766e"/><path d="M380 282h160v78H380z" fill="#d96b2b"/>
+  <path d="M692 208l94 58v96h-94z" fill="#1f5f8b"/><path d="M786 266h66l44 96H786z" fill="#0b2942"/>
+  <circle cx="732" cy="442" r="34" fill="#ffffff"/><circle cx="850" cy="442" r="34" fill="#ffffff"/>
+  <path d="M110 210c178-60 308-60 456 0s226 60 316 0" stroke="#d9e2ea" stroke-width="18" fill="none"/>
+</svg>

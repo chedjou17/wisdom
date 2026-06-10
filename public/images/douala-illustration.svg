@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-label="Illustration claire de Douala">
+  <rect width="720" height="460" rx="28" fill="#f9fcf7"/>
+  <circle cx="574" cy="96" r="58" fill="#fff0cb"/>
+  <path fill="#dff0d2" d="M0 308c74-31 143-40 226-22 91 20 176 71 286 36 76-24 140-42 208-15v153H0z"/>
+  <path fill="#0f7a3b" d="M118 313h126v58H118zM246 281h178v90H246zM444 324h156v47H444z"/>
+  <path fill="#d72525" d="M276 247h95v34h-95zM460 292h74v32h-74z"/>
+  <path fill="#10213b" opacity=".82" d="M88 371h545v32H88z"/>
+  <path fill="#d7a642" d="M159 257c36-48 91-67 149-48 33 11 57 33 80 57-82-25-154-25-229-9Z"/>
+  <g fill="#fff">
+    <rect x="282" y="297" width="22" height="18" rx="3"/><rect x="330" y="297" width="22" height="18" rx="3"/><rect x="476" y="338" width="24" height="15" rx="3"/><rect x="526" y="338" width="24" height="15" rx="3"/>
+  </g>
+  <text x="42" y="78" fill="#10213b" font-family="Inter,Arial" font-size="34" font-weight="900">Arrivée à Douala</text>
+  <text x="42" y="116" fill="#52657a" font-family="Inter,Arial" font-size="18" font-weight="600">Douane, distribution et remise finale</text>
+</svg>

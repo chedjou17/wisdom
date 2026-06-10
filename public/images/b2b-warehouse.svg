@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" role="img" aria-label="Entrepot professionnel">
+  <rect width="960" height="640" fill="#eef4f8"/>
+  <path d="M110 180h740v338H110z" fill="#ffffff" stroke="#d9e2ea" stroke-width="8"/>
+  <path d="M110 180 480 92l370 88" fill="#0b2942"/>
+  <path d="M170 250h140v92H170zM350 250h140v92H350zM530 250h140v92H530z" fill="#1f5f8b"/>
+  <path d="M226 390h128v92H226zM386 390h128v92H386zM546 390h128v92H546z" fill="#d96b2b"/>
+  <path d="M725 370h72v112h-72z" fill="#f6b24a"/>
+  <path d="M725 370h72" stroke="#0b2942" stroke-width="10"/>
+</svg>

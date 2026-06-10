@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-label="Carte stylisée reliant la France au Cameroun">
+  <defs>
+    <linearGradient id="sea" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#edf7ff"/>
+      <stop offset="1" stop-color="#f9fcff"/>
+    </linearGradient>
+    <linearGradient id="route" x1="0" x2="1">
+      <stop offset="0" stop-color="#1f4fa3"/>
+      <stop offset=".52" stop-color="#d7a642"/>
+      <stop offset="1" stop-color="#0f7a3b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="42" fill="url(#sea)"/>
+  <path fill="#dceffc" d="M0 522c132-38 266-42 410-7 146 36 278 22 398-42 153-82 284-69 392-19v266H0z"/>
+  <path fill="#eef6df" d="M208 139c44-20 93-11 135 10 38 19 78 23 126 13 51-11 97 4 112 42 16 39-22 73-68 76-87 5-157 36-232 59-86 26-150-3-162-61-12-56 34-114 89-139Z" opacity=".72"/>
+  <path fill="#eef6df" d="M786 401c40-20 97-16 141 8 56 31 124 38 178 70 52 31 56 87 15 122-43 37-126 38-192 22-71-18-107-57-157-92-48-34-60-93 15-130Z" opacity=".78"/>
+  <path d="M330 249 C 475 265, 586 319, 710 428 S 873 535, 974 536" fill="none" stroke="url(#route)" stroke-width="8" stroke-linecap="round" stroke-dasharray="18 18"/>
+  <circle cx="330" cy="249" r="17" fill="#1f4fa3"/>
+  <circle cx="974" cy="536" r="17" fill="#0f7a3b"/>
+  <text x="283" y="222" fill="#10213b" font-family="Inter,Arial" font-size="28" font-weight="800">France</text>
+  <text x="910" y="586" fill="#10213b" font-family="Inter,Arial" font-size="28" font-weight="800">Cameroun</text>
+  <g fill="#b9cfe2" opacity=".7">
+    <circle cx="143" cy="214" r="4"/><circle cx="510" cy="176" r="4"/><circle cx="692" cy="257" r="4"/><circle cx="828" cy="340" r="4"/><circle cx="1042" cy="462" r="4"/>
+  </g>
+</svg>
